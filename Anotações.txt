@@ -1,0 +1,16 @@
+#Link para Donwload do Git: https://git-scm.com/downloads
+
+O git bash é um console ou podemos dizer que é um prompt de comando,
+que serve literalmente da mesma forma que  prompt do próprio windows,linux ou MacOS faz.Só que através do Git bash podemos versionar o código que está sendo usado o gitHub, no curso vimos os demais comandos:
+
+Git init: Comando inicial que serve para iniciar o git no projeto á ser feito.
+
+Git Status: Comando para acompanhar o status do seu arquivo git, sempre antes de commits você pode monitorar atráves do git status para ver o que o git vai lhe responder. Se não tiverem mudanças que precisem ser comitadas o git vai dar o aviso de #paz, se não ele vai apontar qual arquivo sofreu modificação e recomendar que você faça o commit.
+
+Git add: O git add serve para voce colocar aqueles arquivos que vão ser preparados para o commmit, voce adiciona eles faz um "git add." e logo após "git commit -m"
+
+git commit: um commit adiciona as alterações mais recentes do código-fonte para o repositório, tornando essas alterações parte da revisão principal do repositório.
+
+git push:  é usado para enviar o conteúdo do repositório local para um repositório remoto.
+
+git pull:  é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais. Fazer o merge de alterações upstream remotas no repositório local é algo comum em fluxos de trabalho de colaboração baseados em Git.
